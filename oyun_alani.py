@@ -1,7 +1,3 @@
-
-
-
-# oyun_alani.py
 import os
 import datetime
 

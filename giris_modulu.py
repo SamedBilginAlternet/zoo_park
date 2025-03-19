@@ -1,7 +1,6 @@
 import os
 import datetime
 
-
 class GirisModulu:
     def __init__(self):
         self.veri_klasoru = "veri"
